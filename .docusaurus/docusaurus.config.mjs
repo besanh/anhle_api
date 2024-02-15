@@ -55,6 +55,41 @@ export default {
     ]
   ],
   "themeConfig": {
+    "metadata": [
+      {
+        "name": "keywords",
+        "content": "api, open api, free api, personal blog"
+      }
+    ],
+    "headTags": [
+      {
+        "tagName": "link",
+        "attributes": {
+          "rel": "preconnect",
+          "href": "https://besanh.github.io/anhle_api"
+        }
+      },
+      {
+        "tagName": "script",
+        "attributes": {
+          "type": "application/ld+json"
+        },
+        "innerHTML": "{\"@context\":\"https://schema.org/\",\"@type\":\"Organization\",\"name\":\"AnhLe API\",\"url\":\"https://besanh.github.io/anhle_api/\",\"logo\":\"https://besanh.github.io/anhle_api/img/upload/logo-4la.png\"}"
+      }
+    ],
+    "algolia": {
+      "appId": "3FE8TP66NL",
+      "apiKey": "e201a989d5b8c4d77acc75bfd80dc17a",
+      "indexName": "anhle-api",
+      "contextualSearch": true,
+      "externalUrlRegex": "external\\.com|domain\\.com",
+      "replaceSearchResultPathname": {
+        "from": "/docs/",
+        "to": "/"
+      },
+      "searchParameters": {},
+      "searchPagePath": "search"
+    },
     "image": "img/logo-4la.png",
     "navbar": {
       "title": "Home",
@@ -345,7 +380,6 @@ export default {
         "autoCollapseCategories": false
       }
     },
-    "metadata": [],
     "tableOfContents": {
       "minHeadingLevel": 2,
       "maxHeadingLevel": 3

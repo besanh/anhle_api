@@ -1,48 +1,48 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/anhle_api/vn/docs",
+      "path": "/anhle_api/docs",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/anhle_api/vn/docs",
+          "path": "/anhle_api/docs",
           "mainDocId": "intro",
           "docs": [
             {
               "id": "intro",
-              "path": "/anhle_api/vn/docs/intro",
+              "path": "/anhle_api/docs/intro",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tutorial-basics/api-get-current-weather",
-              "path": "/anhle_api/vn/docs/tutorial-basics/api-get-current-weather",
+              "path": "/anhle_api/docs/tutorial-basics/api-get-current-weather",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tutorial-basics/api-get-historical-weather",
-              "path": "/anhle_api/vn/docs/tutorial-basics/api-get-historical-weather",
+              "path": "/anhle_api/docs/tutorial-basics/api-get-historical-weather",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tutorial-extras/manage-docs-versions",
-              "path": "/anhle_api/vn/docs/tutorial-extras/manage-docs-versions",
+              "path": "/anhle_api/docs/tutorial-extras/manage-docs-versions",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tutorial-extras/translate-your-site",
-              "path": "/anhle_api/vn/docs/tutorial-extras/translate-your-site",
+              "path": "/anhle_api/docs/tutorial-extras/translate-your-site",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/tutorial---open-weather-api",
-              "path": "/anhle_api/vn/docs/category/tutorial---open-weather-api",
+              "path": "/anhle_api/docs/category/tutorial---open-weather-api",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/tutorial---extras",
-              "path": "/anhle_api/vn/docs/category/tutorial---extras",
+              "path": "/anhle_api/docs/category/tutorial---extras",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -50,7 +50,7 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/anhle_api/vn/docs/intro",
+                "path": "/anhle_api/docs/intro",
                 "label": "intro"
               }
             }

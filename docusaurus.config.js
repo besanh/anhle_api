@@ -68,8 +68,64 @@ const config = {
   ],
 
   themeConfig:
-    /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
+    /** @type {import('@docusaurus/theme-search-algolia').ThemeConfig} */
     ({
+      metadata: [
+        { name: 'keywords', content: 'api, open api, free api, personal blog' },
+      ],
+      headTags: [
+        // Declare a <link> preconnect tag
+        {
+          tagName: 'link',
+          attributes: {
+            rel: 'preconnect',
+            href: 'https://besanh.github.io/anhle_api',
+          },
+        },
+        // Declare some json-ld structured data
+        {
+          tagName: 'script',
+          attributes: {
+            type: 'application/ld+json',
+          },
+          innerHTML: JSON.stringify({
+            '@context': 'https://schema.org/',
+            '@type': 'Organization',
+            name: 'AnhLe API',
+            url: 'https://besanh.github.io/anhle_api/',
+            logo: 'https://besanh.github.io/anhle_api/img/upload/logo-4la.png',
+          }),
+        },
+      ],
+      algolia: {
+        // The application ID provided by Algolia
+        appId: '3FE8TP66NL',
+
+        // Public API key: it is safe to commit it
+        apiKey: 'e201a989d5b8c4d77acc75bfd80dc17a',
+
+        indexName: 'anhle-api',
+
+        // Optional: see doc section below
+        contextualSearch: true,
+
+        // Optional: Specify domains where the navigation should occur through window.location instead on history.push. Useful when our Algolia config crawls multiple documentation sites and we want to navigate with window.location.href to them.
+        externalUrlRegex: 'external\\.com|domain\\.com',
+
+        // Optional: Replace parts of the item URLs from Algolia. Useful when using the same search index for multiple deployments using a different baseUrl. You can use regexp or string in the `from` param. For example: localhost:3000 vs myCompany.com/docs
+        replaceSearchResultPathname: {
+          from: '/docs/', // or as RegExp: /\/docs\//
+          to: '/',
+        },
+
+        // Optional: Algolia search parameters
+        searchParameters: {},
+
+        // Optional: path for search page that enabled by default (`false` to disable it)
+        searchPagePath: 'search',
+
+        //... other Algolia params
+      },
       // Replace with your project's social card
       image: 'img/logo-4la.png',
       navbar: {

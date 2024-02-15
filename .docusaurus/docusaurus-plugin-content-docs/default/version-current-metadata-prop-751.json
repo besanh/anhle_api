@@ -12,7 +12,7 @@
       {
         "type": "link",
         "label": "Tutorial Intro About Open API",
-        "href": "/anhle_api/vn/docs/intro",
+        "href": "/anhle_api/docs/intro",
         "docId": "intro"
       },
       {
@@ -24,17 +24,17 @@
           {
             "type": "link",
             "label": "API Get Current Weather",
-            "href": "/anhle_api/vn/docs/tutorial-basics/api-get-current-weather",
+            "href": "/anhle_api/docs/tutorial-basics/api-get-current-weather",
             "docId": "tutorial-basics/api-get-current-weather"
           },
           {
             "type": "link",
             "label": "API Get Historical Weather",
-            "href": "/anhle_api/vn/docs/tutorial-basics/api-get-historical-weather",
+            "href": "/anhle_api/docs/tutorial-basics/api-get-historical-weather",
             "docId": "tutorial-basics/api-get-historical-weather"
           }
         ],
-        "href": "/anhle_api/vn/docs/category/tutorial---open-weather-api"
+        "href": "/anhle_api/docs/category/tutorial---open-weather-api"
       },
       {
         "type": "category",
@@ -45,17 +45,17 @@
           {
             "type": "link",
             "label": "Manage Docs Versions",
-            "href": "/anhle_api/vn/docs/tutorial-extras/manage-docs-versions",
+            "href": "/anhle_api/docs/tutorial-extras/manage-docs-versions",
             "docId": "tutorial-extras/manage-docs-versions"
           },
           {
             "type": "link",
             "label": "Translate your site",
-            "href": "/anhle_api/vn/docs/tutorial-extras/translate-your-site",
+            "href": "/anhle_api/docs/tutorial-extras/translate-your-site",
             "docId": "tutorial-extras/translate-your-site"
           }
         ],
-        "href": "/anhle_api/vn/docs/category/tutorial---extras"
+        "href": "/anhle_api/docs/category/tutorial---extras"
       }
     ]
   },

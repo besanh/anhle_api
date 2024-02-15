@@ -1,5 +1,5 @@
 {
-  "permalink": "/anhle_api/vn/blog/welcome",
+  "permalink": "/anhle_api/blog/welcome",
   "source": "@site/blog/2021-08-26-welcome/index.md",
   "title": "Welcome",
   "description": "Docusaurus blogging features are powered by the blog plugin.",
@@ -8,15 +8,15 @@
   "tags": [
     {
       "label": "facebook",
-      "permalink": "/anhle_api/vn/blog/tags/facebook"
+      "permalink": "/anhle_api/blog/tags/facebook"
     },
     {
       "label": "hello",
-      "permalink": "/anhle_api/vn/blog/tags/hello"
+      "permalink": "/anhle_api/blog/tags/hello"
     },
     {
       "label": "docusaurus",
-      "permalink": "/anhle_api/vn/blog/tags/docusaurus"
+      "permalink": "/anhle_api/blog/tags/docusaurus"
     }
   ],
   "readingTime": 0.405,
@@ -34,6 +34,6 @@
   },
   "prevItem": {
     "title": "Quà Valentine 14/2/2024 - Truong Thi Thuy Tien(Mie Tie)",
-    "permalink": "/anhle_api/vn/blog/mie-tie"
+    "permalink": "/anhle_api/blog/mie-tie"
   }
 }

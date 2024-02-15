@@ -6,7 +6,7 @@
   "source": "@site/docs/tutorial-extras/manage-docs-versions.md",
   "sourceDirName": "tutorial-extras",
   "slug": "/tutorial-extras/manage-docs-versions",
-  "permalink": "/anhle_api/vn/docs/tutorial-extras/manage-docs-versions",
+  "permalink": "/anhle_api/docs/tutorial-extras/manage-docs-versions",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Tutorial - Extras",
-    "permalink": "/anhle_api/vn/docs/category/tutorial---extras"
+    "permalink": "/anhle_api/docs/category/tutorial---extras"
   },
   "next": {
     "title": "Translate your site",
-    "permalink": "/anhle_api/vn/docs/tutorial-extras/translate-your-site"
+    "permalink": "/anhle_api/docs/tutorial-extras/translate-your-site"
   }
 }

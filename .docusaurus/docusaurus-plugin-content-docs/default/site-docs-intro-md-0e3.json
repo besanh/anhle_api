@@ -6,7 +6,7 @@
   "source": "@site/docs/intro.md",
   "sourceDirName": ".",
   "slug": "/intro",
-  "permalink": "/anhle_api/vn/docs/intro",
+  "permalink": "/anhle_api/docs/intro",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -17,6 +17,6 @@
   "sidebar": "tutorialSidebar",
   "next": {
     "title": "Tutorial - Open Weather API",
-    "permalink": "/anhle_api/vn/docs/category/tutorial---open-weather-api"
+    "permalink": "/anhle_api/docs/category/tutorial---open-weather-api"
   }
 }
