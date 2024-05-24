@@ -63,6 +63,12 @@ const config = {
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
+        sitemap: {
+          changefreq: 'weekly',
+          priority: 0.5,
+          ignorePatterns: ['/tags/**'],
+          filename: 'sitemap.xml',
+        },
       }),
     ],
   ],
@@ -71,7 +77,7 @@ const config = {
     /** @type {import('@docusaurus/theme-search-algolia').ThemeConfig} */
     ({
       metadata: [
-        { name: 'keywords', content: 'api, open api, free api, personal blog' },
+        { name: 'keywords', content: 'api, open api, free api, personal blog, rest api, grpc, golang' },
       ],
       headTags: [
         // Declare a <link> preconnect tag
@@ -93,7 +99,7 @@ const config = {
             '@type': 'Organization',
             name: 'AnhLe API',
             url: 'https://besanh.github.io/anhle_api/',
-            logo: 'https://besanh.github.io/anhle_api/img/upload/logo-4la.png',
+            logo: 'https://besanh.github.io/anhle_api/img/upload/anhle.jpeg',
           }),
         },
       ],
@@ -132,7 +138,7 @@ const config = {
         title: 'Home',
         logo: {
           alt: 'Home Logo',
-          src: 'img/upload/logo-4la.png',
+          src: 'img/upload/anhle.jpeg',
         },
         items: [
           {
@@ -145,9 +151,10 @@ const config = {
             position: 'left',
             label: 'Tutorial',
           },
+          // { to: '/project', label: 'Project', position: 'left' },
           { to: '/blog', label: 'Blog', position: 'left' },
           {
-            href: 'https://github.com/Besanh/open_api',
+            href: 'https://github.com/Besanh/anhle_api',
             label: 'GitHub',
             position: 'right',
           },
