@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkanh=self.webpackChunkanh||[]).push([[5512],{4352:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Chat","permalink":"/vn/blog/chat"},{"title":"C.R.M","permalink":"/vn/blog/crm"},{"title":"Welcome","permalink":"/vn/blog/welcome"}]}')}}]);

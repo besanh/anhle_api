@@ -4,8 +4,8 @@
   <ShortName>AnhLe API</ShortName>
   <Description>Search AnhLe API</Description>
   <InputEncoding>UTF-8</InputEncoding>
-  <Image width="16" height="16" type="image/x-icon">https://besanh.github.io/anhle_api/vn/img/upload/logo-4la.png</Image>
-  <Url type="text/html" method="get" template="https://besanh.github.io/anhle_api/vn/search?q={searchTerms}"/>
-  <Url type="application/opensearchdescription+xml" rel="self" template="https://besanh.github.io/anhle_api/vn/opensearch.xml" />
-  <moz:SearchForm>https://besanh.github.io/anhle_api/vn/</moz:SearchForm>
+  <Image width="16" height="16" type="image/x-icon">https://besanh.github.io/vn/img/upload/logo-4la.png</Image>
+  <Url type="text/html" method="get" template="https://besanh.github.io/vn/search?q={searchTerms}"/>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://besanh.github.io/vn/opensearch.xml" />
+  <moz:SearchForm>https://besanh.github.io/vn/</moz:SearchForm>
 </OpenSearchDescription>

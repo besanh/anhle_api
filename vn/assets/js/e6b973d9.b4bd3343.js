@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkanh=self.webpackChunkanh||[]).push([[1660],{5880:e=>{e.exports=JSON.parse('{"permalink":"/anhle_api/vn/blog/tags/mie-tie","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

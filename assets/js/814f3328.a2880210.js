@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkanh=self.webpackChunkanh||[]).push([[5512],{4352:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Qu\xe0 Valentine 14/2/2024 - Truong Thi Thuy Tien(Mie Tie)","permalink":"/anhle_api/blog/mie-tie"},{"title":"Welcome","permalink":"/anhle_api/blog/welcome"}]}')}}]);
