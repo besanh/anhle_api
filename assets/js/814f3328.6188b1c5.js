@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkanh=self.webpackChunkanh||[]).push([[5512],{4352:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Chat","permalink":"/blog/chat"},{"title":"C.R.M","permalink":"/blog/crm"},{"title":"Welcome","permalink":"/blog/welcome"}]}')}}]);

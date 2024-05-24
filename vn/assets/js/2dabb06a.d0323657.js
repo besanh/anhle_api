@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkanh=self.webpackChunkanh||[]).push([[3368],{6870:a=>{a.exports=JSON.parse('{"label":"contact center","permalink":"/vn/blog/tags/contact-center","allTagsPath":"/vn/blog/tags","count":1}')}}]);

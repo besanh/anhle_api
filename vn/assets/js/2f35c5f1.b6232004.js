@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkanh=self.webpackChunkanh||[]).push([[564],{7489:a=>{a.exports=JSON.parse('{"label":"ott","permalink":"/vn/blog/tags/ott","allTagsPath":"/vn/blog/tags","count":1}')}}]);

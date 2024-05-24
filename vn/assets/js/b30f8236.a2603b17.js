@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkanh=self.webpackChunkanh||[]).push([[3032],{7416:a=>{a.exports=JSON.parse('{"label":"multi channel","permalink":"/vn/blog/tags/multi-channel","allTagsPath":"/vn/blog/tags","count":1}')}}]);

@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://besanh.github.io/vn/blog</id>
+    <id>https://besanh.github.io/anhle_api/vn/blog</id>
     <title>AnhLe API Blog</title>
-    <updated>2024-05-24T14:02:07.162Z</updated>
+    <updated>2024-05-24T15:57:49.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://besanh.github.io/vn/blog"/>
+    <link rel="alternate" href="https://besanh.github.io/anhle_api/vn/blog"/>
     <subtitle>AnhLe API Blog</subtitle>
-    <icon>https://besanh.github.io/vn/img/upload/logo-4la.png</icon>
+    <icon>https://besanh.github.io/anhle_api/vn/img/upload/logo-4la.png</icon>
     <entry>
         <title type="html"><![CDATA[Chat]]></title>
-        <id>https://besanh.github.io/vn/blog/chat</id>
-        <link href="https://besanh.github.io/vn/blog/chat"/>
-        <updated>2024-05-24T14:02:07.162Z</updated>
+        <id>https://besanh.github.io/anhle_api/vn/blog/chat</id>
+        <link href="https://besanh.github.io/anhle_api/vn/blog/chat"/>
+        <updated>2024-05-24T15:57:49.000Z</updated>
         <summary type="html"><![CDATA[OTT]]></summary>
-        <content type="html"><![CDATA[<p><img loading="lazy" alt="OTT" src="/vn/assets/images/ott-7120585f9e84874d0523bd972d934d15.jpeg" width="800" height="500" class="img_ev3q"></p><p>The <code>main ott service</code> includes 2 main services: <code>ott service</code> and <code>chat service</code>.</p><p><code>ott service</code> handles requests sent from Facebook/Zalo and is also the final processing location for messages to reach Facebook/Zalo from CRM and CCP (Call Center Pro) systems.</p><p>Meanwhile, the <code>chat service</code> is where data is received and processed from the ott service, performing storage and pushing information to integrated systems (such as Crm), while also receiving information from integrated systems, then processing it before sending it to the ott service.</p><p>Below is the architecture of the main ott service.</p><p><img loading="lazy" alt="Main ott service" src="/vn/assets/images/design_system-1d41be489f739338e35bb92ef46683f7.png" width="1510" height="958" class="img_ev3q"></p><p><img loading="lazy" alt="Chat UI" src="/vn/assets/images/chat-b6be239ef182f40f23c7a7e3ad02fba1.png" width="2368" height="1448" class="img_ev3q"></p>]]></content>
+        <content type="html"><![CDATA[<p><img loading="lazy" alt="OTT" src="/anhle_api/vn/assets/images/ott-7120585f9e84874d0523bd972d934d15.jpeg" width="800" height="500" class="img_ev3q"></p><p>The <code>main ott service</code> includes 2 main services: <code>ott service</code> and <code>chat service</code>.</p><p><code>ott service</code> handles requests sent from Facebook/Zalo and is also the final processing location for messages to reach Facebook/Zalo from CRM and CCP (Call Center Pro) systems.</p><p>Meanwhile, the <code>chat service</code> is where data is received and processed from the ott service, performing storage and pushing information to integrated systems (such as Crm), while also receiving information from integrated systems, then processing it before sending it to the ott service.</p><p>Below is the architecture of the main ott service.</p><p><img loading="lazy" alt="Main ott service" src="/anhle_api/vn/assets/images/design_system-1d41be489f739338e35bb92ef46683f7.png" width="1510" height="958" class="img_ev3q"></p><p><img loading="lazy" alt="Chat UI" src="/anhle_api/vn/assets/images/chat-b6be239ef182f40f23c7a7e3ad02fba1.png" width="2368" height="1448" class="img_ev3q"></p>]]></content>
         <author>
             <name>Le Tuan Anh(AnhLe)</name>
             <uri>https://github.com/Besanh</uri>
@@ -25,13 +25,13 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[C.R.M]]></title>
-        <id>https://besanh.github.io/vn/blog/crm</id>
-        <link href="https://besanh.github.io/vn/blog/crm"/>
-        <updated>2024-05-24T13:57:47.154Z</updated>
+        <id>https://besanh.github.io/anhle_api/vn/blog/crm</id>
+        <link href="https://besanh.github.io/anhle_api/vn/blog/crm"/>
+        <updated>2024-05-24T15:57:49.000Z</updated>
         <summary type="html"><![CDATA[C.R.M]]></summary>
-        <content type="html"><![CDATA[<p><img loading="lazy" alt="C.R.M" src="/vn/assets/images/crm-a4487e9d8ecbfe653d90da6918998934.png" width="940" height="788" class="img_ev3q"></p><p>CRM is a customer support product. In addition to connecting call centers for call handling and
+        <content type="html"><![CDATA[<p><img loading="lazy" alt="C.R.M" src="/anhle_api/vn/assets/images/crm-a4487e9d8ecbfe653d90da6918998934.png" width="940" height="788" class="img_ev3q"></p><p>CRM is a customer support product. In addition to connecting call centers for call handling and
 multi-channel integration such as <a href="https://besanh.github.io/anhle_api/blog/chat" target="_blank" rel="noopener noreferrer">Chat</a>chat, SMS, ZNS and email, it also enables companies to reach,
-engage and serve customers in the best possible way.</p><p><img loading="lazy" alt="Contact" src="/vn/assets/images/contact-2e54bcf47a764790d75f02506d0fb3ec.png" width="2364" height="1444" class="img_ev3q"></p><p><img loading="lazy" alt="Contact" src="/vn/assets/images/ticket-e8a96810b25a4c4dd77ffab6b7586e9f.png" width="2358" height="1112" class="img_ev3q"></p><p><img loading="lazy" alt="Contact" src="/vn/assets/images/unit-82120a773c2a0c6c521170ca8ebfc514.png" width="2320" height="1446" class="img_ev3q"></p>]]></content>
+engage and serve customers in the best possible way.</p><p><img loading="lazy" alt="Contact" src="/anhle_api/vn/assets/images/contact-2e54bcf47a764790d75f02506d0fb3ec.png" width="2364" height="1444" class="img_ev3q"></p><p><img loading="lazy" alt="Contact" src="/anhle_api/vn/assets/images/ticket-e8a96810b25a4c4dd77ffab6b7586e9f.png" width="2358" height="1112" class="img_ev3q"></p><p><img loading="lazy" alt="Contact" src="/anhle_api/vn/assets/images/unit-82120a773c2a0c6c521170ca8ebfc514.png" width="2320" height="1446" class="img_ev3q"></p>]]></content>
         <category label="crm" term="crm"/>
         <category label="contact center" term="contact center"/>
         <category label="multi channel" term="multi channel"/>
@@ -39,11 +39,11 @@ engage and serve customers in the best possible way.</p><p><img loading="lazy" a
     </entry>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
-        <id>https://besanh.github.io/vn/blog/welcome</id>
-        <link href="https://besanh.github.io/vn/blog/welcome"/>
+        <id>https://besanh.github.io/anhle_api/vn/blog/welcome</id>
+        <link href="https://besanh.github.io/anhle_api/vn/blog/welcome"/>
         <updated>2021-08-26T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Docusaurus blogging features are powered by the blog plugin.]]></summary>
-        <content type="html"><![CDATA[<p><a href="https://docusaurus.io/docs/blog" target="_blank" rel="noopener noreferrer">Docusaurus blogging features</a> are powered by the <a href="https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog" target="_blank" rel="noopener noreferrer">blog plugin</a>.</p><p>Simply add Markdown files (or folders) to the <code>blog</code> directory.</p><p>Regular blog authors can be added to <code>authors.yml</code>.</p><p>The blog post date can be extracted from filenames, such as:</p><ul><li><code>2019-05-30-welcome.md</code></li><li><code>2019-05-30-welcome/index.md</code></li></ul><p>A blog post folder can be convenient to co-locate blog post images:</p><p><img loading="lazy" alt="Docusaurus Plushie" src="/vn/assets/images/docusaurus-plushie-banner-a60f7593abca1e3eef26a9afa244e4fb.jpeg" width="1500" height="500" class="img_ev3q"></p><p>The blog supports tags as well!</p><p><strong>And if you don't want a blog</strong>: just delete this directory, and use <code>blog: false</code> in your Docusaurus config.</p>]]></content>
+        <content type="html"><![CDATA[<p><a href="https://docusaurus.io/docs/blog" target="_blank" rel="noopener noreferrer">Docusaurus blogging features</a> are powered by the <a href="https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog" target="_blank" rel="noopener noreferrer">blog plugin</a>.</p><p>Simply add Markdown files (or folders) to the <code>blog</code> directory.</p><p>Regular blog authors can be added to <code>authors.yml</code>.</p><p>The blog post date can be extracted from filenames, such as:</p><ul><li><code>2019-05-30-welcome.md</code></li><li><code>2019-05-30-welcome/index.md</code></li></ul><p>A blog post folder can be convenient to co-locate blog post images:</p><p><img loading="lazy" alt="Docusaurus Plushie" src="/anhle_api/vn/assets/images/docusaurus-plushie-banner-a60f7593abca1e3eef26a9afa244e4fb.jpeg" width="1500" height="500" class="img_ev3q"></p><p>The blog supports tags as well!</p><p><strong>And if you don't want a blog</strong>: just delete this directory, and use <code>blog: false</code> in your Docusaurus config.</p>]]></content>
         <category label="facebook" term="facebook"/>
         <category label="hello" term="hello"/>
         <category label="docusaurus" term="docusaurus"/>
