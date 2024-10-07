@@ -42,7 +42,7 @@
       "plugin": "plugin---anhle-api-docusaurus-debuge-70-301"
     }
   },
-  "/anhle_api/blog-f96": {
+  "/anhle_api/blog-6a2": {
     "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
     "__context": {
       "plugin": "plugin---anhle-api-blog-67-d-a3d"
@@ -50,7 +50,10 @@
     "sidebar": "sidebar---anhle-api-blog-814-cc6",
     "items": [
       {
-        "content": "content---anhle-api-blogaa-8-24b"
+        "content": "content---anhle-api-blogb-83-787"
+      },
+      {
+        "content": "content---anhle-api-blog-677-899"
       },
       {
         "content": "content---anhle-api-blog-766-2fa"
@@ -65,13 +68,21 @@
     },
     "archive": "archive---anhle-api-blog-archive-14-b-d9e"
   },
-  "/anhle_api/blog/mie-tie-2d7": {
+  "/anhle_api/blog/chat-878": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
       "plugin": "plugin---anhle-api-blog-67-d-a3d"
     },
     "sidebar": "sidebar---anhle-api-blog-814-cc6",
-    "content": "content---anhle-api-blog-mie-tie-53-c-fd6"
+    "content": "content---anhle-api-blog-chatc-0-d-2a9"
+  },
+  "/anhle_api/blog/crm-886": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "plugin": "plugin---anhle-api-blog-67-d-a3d"
+    },
+    "sidebar": "sidebar---anhle-api-blog-814-cc6",
+    "content": "content---anhle-api-blog-crm-485-399"
   },
   "/anhle_api/blog/tags-d49": {
     "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
@@ -81,7 +92,7 @@
     "sidebar": "sidebar---anhle-api-blog-814-cc6",
     "tags": "tags---anhle-api-blog-tagse-1-b-d84"
   },
-  "/anhle_api/blog/tags/anhle-478": {
+  "/anhle_api/blog/tags/chat-7cd": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
       "plugin": "plugin---anhle-api-blog-67-d-a3d"
@@ -89,11 +100,42 @@
     "sidebar": "sidebar---anhle-api-blog-814-cc6",
     "items": [
       {
-        "content": "content---anhle-api-blogaa-8-24b"
+        "content": "content---anhle-api-blogb-83-787"
+      },
+      {
+        "content": "content---anhle-api-blog-677-899"
       }
     ],
-    "tag": "tag---anhle-api-blog-tags-anhleeec-7e5",
-    "listMetadata": "listMetadata---anhle-api-blog-tags-anhle-922-cd2"
+    "tag": "tag---anhle-api-blog-tags-chat-495-497",
+    "listMetadata": "listMetadata---anhle-api-blog-tags-chat-9-d-6-234"
+  },
+  "/anhle_api/blog/tags/contact-center-850": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---anhle-api-blog-67-d-a3d"
+    },
+    "sidebar": "sidebar---anhle-api-blog-814-cc6",
+    "items": [
+      {
+        "content": "content---anhle-api-blog-677-899"
+      }
+    ],
+    "tag": "tag---anhle-api-blog-tags-contact-centere-0-e-eb0",
+    "listMetadata": "listMetadata---anhle-api-blog-tags-contact-center-995-68d"
+  },
+  "/anhle_api/blog/tags/crm-5b1": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---anhle-api-blog-67-d-a3d"
+    },
+    "sidebar": "sidebar---anhle-api-blog-814-cc6",
+    "items": [
+      {
+        "content": "content---anhle-api-blog-677-899"
+      }
+    ],
+    "tag": "tag---anhle-api-blog-tags-crm-194-41d",
+    "listMetadata": "listMetadata---anhle-api-blog-tags-crm-987-2a5"
   },
   "/anhle_api/blog/tags/docusaurus-077": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
@@ -109,13 +151,33 @@
     "tag": "tag---anhle-api-blog-tags-docusaurus-2-d-6-6dc",
     "listMetadata": "listMetadata---anhle-api-blog-tags-docusaurus-6-c-5-597"
   },
-  "/anhle_api/blog/tags/facebook-4ba": {
+  "/anhle_api/blog/tags/email-345": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
       "plugin": "plugin---anhle-api-blog-67-d-a3d"
     },
     "sidebar": "sidebar---anhle-api-blog-814-cc6",
     "items": [
+      {
+        "content": "content---anhle-api-blog-677-899"
+      }
+    ],
+    "tag": "tag---anhle-api-blog-tags-emaile-56-f99",
+    "listMetadata": "listMetadata---anhle-api-blog-tags-email-838-725"
+  },
+  "/anhle_api/blog/tags/facebook-529": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---anhle-api-blog-67-d-a3d"
+    },
+    "sidebar": "sidebar---anhle-api-blog-814-cc6",
+    "items": [
+      {
+        "content": "content---anhle-api-blogb-83-787"
+      },
+      {
+        "content": "content---anhle-api-blog-677-899"
+      },
       {
         "content": "content---anhle-api-blog-766-2fa"
       }
@@ -137,7 +199,7 @@
     "tag": "tag---anhle-api-blog-tags-helloe-03-e89",
     "listMetadata": "listMetadata---anhle-api-blog-tags-hello-488-df3"
   },
-  "/anhle_api/blog/tags/mie-tie-db6": {
+  "/anhle_api/blog/tags/multi-channel-4ac": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
       "plugin": "plugin---anhle-api-blog-67-d-a3d"
@@ -145,11 +207,70 @@
     "sidebar": "sidebar---anhle-api-blog-814-cc6",
     "items": [
       {
-        "content": "content---anhle-api-blogaa-8-24b"
+        "content": "content---anhle-api-blog-677-899"
       }
     ],
-    "tag": "tag---anhle-api-blog-tags-mie-tie-061-f5e",
-    "listMetadata": "listMetadata---anhle-api-blog-tags-mie-tie-8-ff-90b"
+    "tag": "tag---anhle-api-blog-tags-multi-channel-195-31e",
+    "listMetadata": "listMetadata---anhle-api-blog-tags-multi-channel-143-cba"
+  },
+  "/anhle_api/blog/tags/ott-fb5": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---anhle-api-blog-67-d-a3d"
+    },
+    "sidebar": "sidebar---anhle-api-blog-814-cc6",
+    "items": [
+      {
+        "content": "content---anhle-api-blogb-83-787"
+      }
+    ],
+    "tag": "tag---anhle-api-blog-tags-ott-890-11a",
+    "listMetadata": "listMetadata---anhle-api-blog-tags-ott-3-fc-54e"
+  },
+  "/anhle_api/blog/tags/sms-957": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---anhle-api-blog-67-d-a3d"
+    },
+    "sidebar": "sidebar---anhle-api-blog-814-cc6",
+    "items": [
+      {
+        "content": "content---anhle-api-blog-677-899"
+      }
+    ],
+    "tag": "tag---anhle-api-blog-tags-smsa-64-24e",
+    "listMetadata": "listMetadata---anhle-api-blog-tags-sms-2-c-0-7b2"
+  },
+  "/anhle_api/blog/tags/zalo-8ec": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---anhle-api-blog-67-d-a3d"
+    },
+    "sidebar": "sidebar---anhle-api-blog-814-cc6",
+    "items": [
+      {
+        "content": "content---anhle-api-blogb-83-787"
+      },
+      {
+        "content": "content---anhle-api-blog-677-899"
+      }
+    ],
+    "tag": "tag---anhle-api-blog-tags-zalo-35-c-3f8",
+    "listMetadata": "listMetadata---anhle-api-blog-tags-zalo-641-9d4"
+  },
+  "/anhle_api/blog/tags/zns-12b": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---anhle-api-blog-67-d-a3d"
+    },
+    "sidebar": "sidebar---anhle-api-blog-814-cc6",
+    "items": [
+      {
+        "content": "content---anhle-api-blog-677-899"
+      }
+    ],
+    "tag": "tag---anhle-api-blog-tags-znsc-35-3d4",
+    "listMetadata": "listMetadata---anhle-api-blog-tags-zns-398-664"
   },
   "/anhle_api/blog/welcome-c7f": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",

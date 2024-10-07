@@ -2,8 +2,12 @@
   "title": "Recent posts",
   "items": [
     {
-      "title": "Quà Valentine 14/2/2024 - Truong Thi Thuy Tien(Mie Tie)",
-      "permalink": "/anhle_api/blog/mie-tie"
+      "title": "Chat",
+      "permalink": "/anhle_api/blog/chat"
+    },
+    {
+      "title": "CRM",
+      "permalink": "/anhle_api/blog/crm"
     },
     {
       "title": "Welcome",
