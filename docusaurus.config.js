@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'AnhLe API',
-  tagline: 'Tik Tac Toe',
+  tagline: 'API Documentation',
   favicon: 'img/upload/logo-4la.png',
 
   // Set the production url of your site here
@@ -170,6 +170,14 @@ const config = {
                 label: 'Tutorial',
                 to: '/docs/intro',
               },
+              {
+                label: "Policy",
+                to: '/policy',
+              },
+              {
+                label: "Terms",
+                to: '/terms',
+              }
             ],
           },
           {
