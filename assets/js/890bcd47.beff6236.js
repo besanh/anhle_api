@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkanhle=self.webpackChunkanhle||[]).push([[8146],{2464:a=>{a.exports=JSON.parse('{"label":"ott","permalink":"/anhle_api/blog/tags/ott","allTagsPath":"/anhle_api/blog/tags","count":1,"unlisted":false}')}}]);

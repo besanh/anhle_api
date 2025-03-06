@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkanhle=self.webpackChunkanhle||[]).push([[3561],{5238:a=>{a.exports=JSON.parse('{"label":"zalo","permalink":"/anhle_api/blog/tags/zalo","allTagsPath":"/anhle_api/blog/tags","count":2,"unlisted":false}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkanhle=self.webpackChunkanhle||[]).push([[7472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Chat","permalink":"/anhle_api/blog/chat","unlisted":false},{"title":"CRM","permalink":"/anhle_api/blog/crm","unlisted":false},{"title":"Welcome","permalink":"/anhle_api/blog/welcome","unlisted":false}]}')}}]);

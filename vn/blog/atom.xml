@@ -13,7 +13,13 @@
         <link href="https://besanh.github.io/anhle_api/vn/blog/chat"/>
         <updated>2024-05-24T15:57:49.000Z</updated>
         <summary type="html"><![CDATA[OTT]]></summary>
-        <content type="html"><![CDATA[<p><img loading="lazy" alt="OTT" src="/anhle_api/vn/assets/images/ott-7120585f9e84874d0523bd972d934d15.jpeg" width="800" height="500" class="img_ev3q"></p><p>The <code>main ott service</code> includes 2 main services: <code>ott service</code> and <code>chat service</code>.</p><p><code>ott service</code> handles requests sent from Facebook, Zalo and is also the final processing location for messages to reach Facebook, Zalo from CRM and CCP (Call Center Pro) systems.</p><p>Meanwhile, the <code>chat service</code> is where data is received and processed from the ott service, performing storage and pushing information to integrated systems (such as Crm), while also receiving information from integrated systems, then processing it before sending it to the ott service.</p><p>Below is the architecture of the main ott service.</p><p><img loading="lazy" alt="Chat SA" src="/anhle_api/vn/assets/images/chat_sa-324c63f464c9f88002e677edd77a9eac.png" width="1344" height="456" class="img_ev3q"></p><p><img loading="lazy" alt="Chat UI" src="/anhle_api/vn/assets/images/chat_detail-a39bc194436ddfd377d3544348ece9fd.png" width="1632" height="859" class="img_ev3q"></p>]]></content>
+        <content type="html"><![CDATA[<p><img loading="lazy" alt="OTT" src="https://besanh.github.io/anhle_api/vn/assets/images/ott-7120585f9e84874d0523bd972d934d15.jpeg" width="800" height="500" class="img_ev3q"></p>
+<p>The <code>main ott service</code> includes 2 main services: <code>ott service</code> and <code>chat service</code>.</p>
+<p><code>ott service</code> handles requests sent from Facebook, Zalo and is also the final processing location for messages to reach Facebook, Zalo from CRM and CCP (Call Center Pro) systems.</p>
+<p>Meanwhile, the <code>chat service</code> is where data is received and processed from the ott service, performing storage and pushing information to integrated systems (such as Crm), while also receiving information from integrated systems, then processing it before sending it to the ott service.</p>
+<p>Below is the architecture of the main ott service.</p>
+<p><img loading="lazy" alt="Chat SA" src="https://besanh.github.io/anhle_api/vn/assets/images/chat_sa-324c63f464c9f88002e677edd77a9eac.png" width="1344" height="456" class="img_ev3q"></p>
+<p><img loading="lazy" alt="Chat UI" src="https://besanh.github.io/anhle_api/vn/assets/images/chat_detail-a39bc194436ddfd377d3544348ece9fd.png" width="1632" height="859" class="img_ev3q"></p>]]></content>
         <author>
             <name>Le Tuan Anh(AnhLe)</name>
             <uri>https://github.com/Besanh</uri>
@@ -29,18 +35,30 @@
         <link href="https://besanh.github.io/anhle_api/vn/blog/crm"/>
         <updated>2024-05-24T15:57:49.000Z</updated>
         <summary type="html"><![CDATA[CRM]]></summary>
-        <content type="html"><![CDATA[<p><img loading="lazy" alt="CRM" src="/anhle_api/vn/assets/images/crm-a4487e9d8ecbfe653d90da6918998934.png" width="940" height="788" class="img_ev3q"></p><p>CRM is a customer support product. In addition to connecting call centers for call handling and
+        <content type="html"><![CDATA[<p><img loading="lazy" alt="CRM" src="https://besanh.github.io/anhle_api/vn/assets/images/crm-a4487e9d8ecbfe653d90da6918998934.png" width="940" height="788" class="img_ev3q"></p>
+<p>CRM is a customer support product. In addition to connecting call centers for call handling and
 multi-channel integration such as <a href="https://besanh.github.io/anhle_api/blog/chat" target="_blank" rel="noopener noreferrer">Chat</a>chat facebook, zalo, SMS, ZNS and email, it also enables companies to reach,
-engage and serve customers in the best possible way.</p><hr><h1>Dashboard</h1><p>Admins can easily view and manage the status of users, tickets, contacts, and static calls through the dashboard
-<img loading="lazy" alt="Dashboard Admin" src="/anhle_api/vn/assets/images/dashboard_admin-81898bba3a1daea7bceccf6f4fd00f19.png" width="1917" height="933" class="img_ev3q">
-<img loading="lazy" alt="Dashboard User" src="/anhle_api/vn/assets/images/dashboard_user-b8c6582aa9663104d7b9b0e13df22c5f.png" width="1914" height="929" class="img_ev3q"></p><h1>Contact</h1><p>This screen allows users to manage contacts, tickets, and call detail records (CDRs). Users can easily view, search, create, and edit-all in one screen
-<img loading="lazy" alt="Contact" src="/anhle_api/vn/assets/images/contact-e7b124569413b58c80052d134ba78c31.png" width="1920" height="932" class="img_ev3q">
-<img loading="lazy" alt="Ticket" src="/anhle_api/vn/assets/images/customer_and_ticket-6c4b505ce83c02ee7cf5b3fb60a866c5.png" width="1918" height="935" class="img_ev3q"></p><h1>Campaign</h1><p>Here, users can manage call campaigns and inbox marketing. Each campaign serves a specific purpose, such as increasing engagement with customers via channels like calls, ZNS, SMS
-<img loading="lazy" alt="Campaign manual" src="/anhle_api/vn/assets/images/campaign-e4d87b7946d84a96e71db0d3f2513fcd.png" width="1917" height="934" class="img_ev3q">
-<img loading="lazy" alt="Campaign autocall" src="/anhle_api/vn/assets/images/campaign_autocall-4cf79f1b04e02e2e8ce2f28919508e6e.png" width="1921" height="935" class="img_ev3q">
-<img loading="lazy" alt="Campaign inbox marketing" src="/anhle_api/vn/assets/images/campaign_inbox_marketing-6959f416ff2af81c2bfde1c9694cc9c9.png" width="1917" height="935" class="img_ev3q"></p><h1>Chat</h1><p>Users can interact with customers via channels like Facebook and Zalo, using features such as text chat, media attachments, assigning and reassigning conversations to other users, adding labels, requesting customer information, and searching conversations
-<img loading="lazy" alt="Chat" src="/anhle_api/vn/assets/images/chat-3efe40e6430b1cc2601abdda54b45d41.png" width="1917" height="934" class="img_ev3q"></p><h1>Manage user and unit</h1><p>With settings for users, units, roles, ticket management, workdays, and chat configuration, users can easily manage all features and data
-<img loading="lazy" alt="Manage user and unit" src="/anhle_api/vn/assets/images/user-54a7ea2a549c9bf8bf09d411aa9cf304.png" width="1918" height="929" class="img_ev3q"></p><p>In conclusion, these are some of the many features in CRM that I can share with you. CRM is still in version 1, with many features to be integrated. I hope to update it soon</p>]]></content>
+engage and serve customers in the best possible way.</p>
+<hr>
+<p>Admins can easily view and manage the status of users, tickets, contacts, and static calls through the dashboard
+<img loading="lazy" alt="Dashboard Admin" src="https://besanh.github.io/anhle_api/vn/assets/images/dashboard_admin-81898bba3a1daea7bceccf6f4fd00f19.png" width="1917" height="933" class="img_ev3q">
+<img loading="lazy" alt="Dashboard User" src="https://besanh.github.io/anhle_api/vn/assets/images/dashboard_user-b8c6582aa9663104d7b9b0e13df22c5f.png" width="1914" height="929" class="img_ev3q"></p>
+<h1>Contact</h1>
+<p>This screen allows users to manage contacts, tickets, and call detail records (CDRs). Users can easily view, search, create, and edit-all in one screen
+<img loading="lazy" alt="Contact" src="https://besanh.github.io/anhle_api/vn/assets/images/contact-e7b124569413b58c80052d134ba78c31.png" width="1920" height="932" class="img_ev3q">
+<img loading="lazy" alt="Ticket" src="https://besanh.github.io/anhle_api/vn/assets/images/customer_and_ticket-6c4b505ce83c02ee7cf5b3fb60a866c5.png" width="1918" height="935" class="img_ev3q"></p>
+<h1>Campaign</h1>
+<p>Here, users can manage call campaigns and inbox marketing. Each campaign serves a specific purpose, such as increasing engagement with customers via channels like calls, ZNS, SMS
+<img loading="lazy" alt="Campaign manual" src="https://besanh.github.io/anhle_api/vn/assets/images/campaign-e4d87b7946d84a96e71db0d3f2513fcd.png" width="1917" height="934" class="img_ev3q">
+<img loading="lazy" alt="Campaign autocall" src="https://besanh.github.io/anhle_api/vn/assets/images/campaign_autocall-4cf79f1b04e02e2e8ce2f28919508e6e.png" width="1921" height="935" class="img_ev3q">
+<img loading="lazy" alt="Campaign inbox marketing" src="https://besanh.github.io/anhle_api/vn/assets/images/campaign_inbox_marketing-6959f416ff2af81c2bfde1c9694cc9c9.png" width="1917" height="935" class="img_ev3q"></p>
+<h1>Chat</h1>
+<p>Users can interact with customers via channels like Facebook and Zalo, using features such as text chat, media attachments, assigning and reassigning conversations to other users, adding labels, requesting customer information, and searching conversations
+<img loading="lazy" alt="Chat" src="https://besanh.github.io/anhle_api/vn/assets/images/chat-3efe40e6430b1cc2601abdda54b45d41.png" width="1917" height="934" class="img_ev3q"></p>
+<h1>Manage user and unit</h1>
+<p>With settings for users, units, roles, ticket management, workdays, and chat configuration, users can easily manage all features and data
+<img loading="lazy" alt="Manage user and unit" src="https://besanh.github.io/anhle_api/vn/assets/images/user-54a7ea2a549c9bf8bf09d411aa9cf304.png" width="1918" height="929" class="img_ev3q"></p>
+<p>In conclusion, these are some of the many features in CRM that I can share with you. CRM is still in version 1, with many features to be integrated. I hope to update it soon</p>]]></content>
         <category label="crm" term="crm"/>
         <category label="contact center" term="contact center"/>
         <category label="multi channel" term="multi channel"/>
@@ -57,7 +75,18 @@ engage and serve customers in the best possible way.</p><hr><h1>Dashboard</h1><p
         <link href="https://besanh.github.io/anhle_api/vn/blog/welcome"/>
         <updated>2021-08-26T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Docusaurus blogging features are powered by the blog plugin.]]></summary>
-        <content type="html"><![CDATA[<p><a href="https://docusaurus.io/docs/blog" target="_blank" rel="noopener noreferrer">Docusaurus blogging features</a> are powered by the <a href="https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog" target="_blank" rel="noopener noreferrer">blog plugin</a>.</p><p>Simply add Markdown files (or folders) to the <code>blog</code> directory.</p><p>Regular blog authors can be added to <code>authors.yml</code>.</p><p>The blog post date can be extracted from filenames, such as:</p><ul><li><code>2019-05-30-welcome.md</code></li><li><code>2019-05-30-welcome/index.md</code></li></ul><p>A blog post folder can be convenient to co-locate blog post images:</p><p><img loading="lazy" alt="Docusaurus Plushie" src="/anhle_api/vn/assets/images/docusaurus-plushie-banner-a60f7593abca1e3eef26a9afa244e4fb.jpeg" width="1500" height="500" class="img_ev3q"></p><p>The blog supports tags as well!</p><p><strong>And if you don't want a blog</strong>: just delete this directory, and use <code>blog: false</code> in your Docusaurus config.</p>]]></content>
+        <content type="html"><![CDATA[<p><a href="https://docusaurus.io/docs/blog" target="_blank" rel="noopener noreferrer">Docusaurus blogging features</a> are powered by the <a href="https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog" target="_blank" rel="noopener noreferrer">blog plugin</a>.</p>
+<p>Simply add Markdown files (or folders) to the <code>blog</code> directory.</p>
+<p>Regular blog authors can be added to <code>authors.yml</code>.</p>
+<p>The blog post date can be extracted from filenames, such as:</p>
+<ul>
+<li><code>2019-05-30-welcome.md</code></li>
+<li><code>2019-05-30-welcome/index.md</code></li>
+</ul>
+<p>A blog post folder can be convenient to co-locate blog post images:</p>
+<p><img loading="lazy" alt="Docusaurus Plushie" src="https://besanh.github.io/anhle_api/vn/assets/images/docusaurus-plushie-banner-a60f7593abca1e3eef26a9afa244e4fb.jpeg" width="1500" height="500" class="img_ev3q"></p>
+<p>The blog supports tags as well!</p>
+<p><strong>And if you don't want a blog</strong>: just delete this directory, and use <code>blog: false</code> in your Docusaurus config.</p>]]></content>
         <category label="facebook" term="facebook"/>
         <category label="hello" term="hello"/>
         <category label="docusaurus" term="docusaurus"/>

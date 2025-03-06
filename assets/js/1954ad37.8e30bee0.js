@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkanhle=self.webpackChunkanhle||[]).push([[7],{2793:a=>{a.exports=JSON.parse('{"label":"multi channel","permalink":"/anhle_api/blog/tags/multi-channel","allTagsPath":"/anhle_api/blog/tags","count":1,"unlisted":false}')}}]);

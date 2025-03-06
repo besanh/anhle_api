@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkanhle=self.webpackChunkanhle||[]).push([[9179],{4868:a=>{a.exports=JSON.parse('{"label":"sms","permalink":"/anhle_api/vn/blog/tags/sms","allTagsPath":"/anhle_api/vn/blog/tags","count":1,"unlisted":false}')}}]);

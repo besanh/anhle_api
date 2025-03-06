@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkanhle=self.webpackChunkanhle||[]).push([[4284],{4087:a=>{a.exports=JSON.parse('{"label":"chat","permalink":"/anhle_api/vn/blog/tags/chat","allTagsPath":"/anhle_api/vn/blog/tags","count":2,"unlisted":false}')}}]);
