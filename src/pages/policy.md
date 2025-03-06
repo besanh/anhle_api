@@ -3,6 +3,8 @@ title: Policy
 slug: /policy
 ---
 
+_Last Updated: 06/03/2025
+
 # Policy
 
 Welcome to our Policy page. This document outlines the guidelines and practices that govern the use of our website and services.
